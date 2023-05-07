@@ -1,0 +1,22 @@
+.card {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.card-img {
+  display: block;
+  margin: 0 auto;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.btn-danger {
+  background-color: red;
+  border-radius: 2px solid black;
+}
+.btn:hover {
+  background-color: red;
+  color: white;
+}
